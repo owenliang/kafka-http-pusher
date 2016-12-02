@@ -1,0 +1,3 @@
+*.o
+kafka-http-pusher
+.idea
