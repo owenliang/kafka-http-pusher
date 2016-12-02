@@ -1,6 +1,5 @@
 kafka-http-pusher
 ===
---
 基于librdkafka实现，读取kafka中的消息，以http POST方式将消息推送到目标服务器，支持重试策略和并发控制。
 
 
